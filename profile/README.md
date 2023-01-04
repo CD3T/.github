@@ -10,5 +10,6 @@
 ## 4. 기능정의
 - 버스 정보
 - 네비게이션
+  - Google Direction API 사용하면 지도상의 이동 경로 표시 가능(https://developers.google.com/maps/documentation/directions/overview)
 - 공사 정보
 - 주차장 정보
